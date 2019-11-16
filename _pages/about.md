@@ -12,11 +12,12 @@ My primary research interest is “data fusion” using multiple structured and 
 
 Following topics are the interested areas that I am currently working on:
 
-   * Connected and Automated Vehicles
+   * Connected and Automated Vehicles (CAV)
+   * Electric Vehicles (EV)
+   * Smart Grid
    * Intelligent Transportation Systems
    * Transportation Informatics/Data Analytics
    * Transportation Simulation and Modeling
    * Transportation Safety
-   * Traffic Operation & Incident Management
 
 Please check out my [research](http://olcaysahin.com/research/), [publications](http://olcaysahin.com/publications/), and [skills](http://olcaysahin.com/mytoolset/) for more information about me!
