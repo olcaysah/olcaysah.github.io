@@ -16,7 +16,7 @@ gallery:
 
 I developed below tools as a helper for the project meetings or reporting. The tools are located in a private server that I developed for research purposes. I used RShiny to develop these tools. PostgreSQL database and Apache2 or NGINX web servers are used at the backend.
 
-#	[Sample Traffic:](http://128.82.122.156:8888/shiny/tt/){:target="_blank"}
+##	[Sample Traffic:](http://128.82.122.156:8888/shiny/tt/){:target="_blank"}
 This project was about investigating relationship between driving patterns and traffic safety using smartphone GPS data. I developed the tool for data exploration purposes. This anonymous GPS data provided by a third party company.
 The tool that I developed contains 3 tabs:
 1.	Density Map: I created a 10x10 grid on the Hampton Roads area and count how many users pass through that grid. The size of the circles shows the density of where GPS data collected.
@@ -25,9 +25,7 @@ The tool that I developed contains 3 tabs:
 
 {% include gallery id="gallery" %}
 
-[Link](http://128.82.122.156:8888/shiny/tt/){:target="_blank"}
-
-#	[Overheight Trucks:](http://128.82.122.156:8888/shiny/hrbt/){:target="_blank"}
+##	[Overheight Trucks:](http://128.82.122.156:8888/shiny/hrbt/){:target="_blank"}
 This project was about the evaluation of strategies to reduce truck turnarounds at the Hampton Roads Bridge Tunnel (HRBT).
 We installed a LIDAR scanner along with the surveillance cameras 1 mile before the tunnel entrance where VDOT over height beam sensor is located. We collected data for 36 days and analyzed the overheight trucks. In order to see the individual trucks video and LiDAR data I developed this interactive tool using RShiny.
 The tool contains many features:
@@ -40,7 +38,7 @@ The tool contains many features:
 
 [Link](http://128.82.122.156:8888/shiny/hrbt/){:target="_blank"}
 
-#	[Vehicle Classification Tool:](http://128.82.122.156:8888/shiny/classification/){:target="_blank"}
+##	[Vehicle Classification Tool:](http://128.82.122.156:8888/shiny/classification/){:target="_blank"}
 I developed a tool that ability to see each vehicle picture and lidar data. I developed an algorithm to extract images of the vehicle while in the LIDAR view area and also I developed an algorithm to merge each individual scan of lidar data for a single vehicle.
 This tool also contains many features:  
 1.	Left panel contains data selection and filtration.
@@ -49,7 +47,7 @@ This tool also contains many features:
 
 [Link](http://128.82.122.156:8888/shiny/classification/){:target="_blank"}
 
-# [Motor Carrier Management Information System:](http://mcmis.olcaysahin.com){:target="_blank"}
+## [Motor Carrier Management Information System:](http://mcmis.olcaysahin.com){:target="_blank"}
 RShiny application for downloading and visualizing Motor Carrier Management Information System (MCMIS) data.
 More information can be found here: [link](https://ask.fmcsa.dot.gov/app/mcmiscatalog/d_census_mcmis_doc){:target="_blank"}
 
