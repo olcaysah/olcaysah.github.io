@@ -6,7 +6,7 @@ comments: false
 
 ## 2018
 
-* Expected graduation on August 2019 :-)
+* Expected graduation on December 2019 :-)
 
 * I will complete my degree as Transportation Analyst / Data Scientist
 

@@ -2,16 +2,34 @@
 permalink: /RShiny/
 title: RShiny Showcase
 comments: false
-gallery:
-- url: /assets/images/sampletraffic.jpg
+sample_traffic_gallery:
+- url: /assets/images/sampletraffic1.jpg
   image_path: /assets/images/sampletraffic1.jpg
   alt: "Density Snapshot"  
-- url: /assets/images/sampletraffic.jpg
+- url: /assets/images/sampletraffic2.jpg
   image_path: /assets/images/sampletraffic2.jpg
   alt: "User Locations Snapshot"  
-- url: /assets/images/sampletraffic.jpg
+- url: /assets/images/sampletraffic3.jpg
   image_path: /assets/images/sampletraffic3.jpg
   alt: "User Trajectories Snapshot"
+overheight_gallery:
+- url: /assets/images/OH1.jpg
+  image_path: /assets/images/OH1.jpg
+  alt: "Bar Plot View"  
+- url: /assets/images/OH2.jpg
+  image_path: /assets/images/OH2.jpg
+  alt: "LiDAR Frame View"  
+- url: /assets/images/OH3.jpg
+  image_path: /assets/images/OH3.jpg
+  alt: "2D and 3D LiDAR View"
+classification_gallery:
+- url: /assets/images/classification_tool.jpg
+  image_path: /assets/images/classification_tool.jpg
+  alt: "Vehicle Classification Tool"  
+MCMIS_gallery:
+- url: /assets/images/MCMIS.jpg
+  image_path: /assets/images/MCMIS.jpg
+  alt: "Vehicle Classification Tool"
 ---
 
 I developed below tools as a helper for the project meetings or reporting. The tools are located in a private server that I developed for research purposes. I used RShiny to develop these tools. PostgreSQL database and Apache2 or NGINX web servers are used at the backend.
@@ -23,7 +41,7 @@ The tool that I developed contains 3 tabs:
 2.	User Locations: This map shows where the user opened the smartphone app. If you click on a marker on the map, you can see the anonymous information about the user and distance to major tunnels in the Hampton Roads area.
 3.	User Trajectories: This map has same logic as user locations but it shows the where the app opened and closed with a polyline.
 
-{% include gallery id="gallery" %}
+{% include gallery id="sample_traffic_gallery" %}
 
 ##	[Overheight Trucks:](http://128.82.122.156:8888/shiny/hrbt/){:target="_blank"}
 This project was about the evaluation of strategies to reduce truck turnarounds at the Hampton Roads Bridge Tunnel (HRBT).
@@ -36,7 +54,8 @@ The tool contains many features:
 
     2.2 Cloud Points: When you click on a bar in the bar plot, if the bar color is change, LIDAR cloud point will be activated in this tab. You should click on the "Show Points" button to see the 3D cloud points of that truck and merged 2D points for truck profile.
 
-[Link](http://128.82.122.156:8888/shiny/hrbt/){:target="_blank"}
+{% include gallery id="overheight_gallery" %}
+
 
 ##	[Vehicle Classification Tool:](http://128.82.122.156:8888/shiny/classification/){:target="_blank"}
 I developed a tool that ability to see each vehicle picture and lidar data. I developed an algorithm to extract images of the vehicle while in the LIDAR view area and also I developed an algorithm to merge each individual scan of lidar data for a single vehicle.
@@ -45,7 +64,7 @@ This tool also contains many features:
 2.	Middle panel contains vehicle picture and lidar points of that vehicle.
 3.	Right panel contains selected vehicle information and editable vehicle characteristics.
 
-[Link](http://128.82.122.156:8888/shiny/classification/){:target="_blank"}
+{% include gallery id="classification_gallery" %}
 
 ## [Motor Carrier Management Information System:](http://mcmis.olcaysahin.com){:target="_blank"}
 RShiny application for downloading and visualizing Motor Carrier Management Information System (MCMIS) data.
@@ -53,4 +72,6 @@ More information can be found here: [link](https://ask.fmcsa.dot.gov/app/mcmisca
 
 This application can be seen under my porfolio's subdomain as: [http://mcmis.olcaysahin.com](http://mcmis.olcaysahin.com){:target="_blank"}
 
-**Disclaimer:** These tools originally developed by myself (Olcay Sahin) and they used for reporting and data analysis purposes. Contains of the tools cannot be copied or used other than review purposes except MCIMS.
+{% include gallery id="MCMIS_gallery" %}
+
+**Disclaimer:** These tools originally developed by me (Olcay Sahin) and they used for reporting and data analysis purposes. Contains of the tools cannot be copied or used other than review purposes except MCIMS.
