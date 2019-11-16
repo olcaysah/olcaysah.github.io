@@ -1,4 +1,17 @@
+---
+layout: archive
+title: "RStudio Reticulate Setup"
+modified: 2019-10-22
+comments: true
+share: true
+gallery:
+- url: /assets/images/unnamed-chunk-2-1.png
+  image_path: /assets/images/unnamed-chunk-2-1.png
+  alt: "Plot"
+---
+
 This code written in the Rstudio. Reticulate library enables to run Python codes in Rstudio.
+I copied example from Reticulate manual. I will post my own examples soon.
 
 R Code:
 
@@ -18,4 +31,4 @@ Python Code:
     plt.grid(True)
     plt.show()
 
-<img src="unnamed-chunk-2-1.png" width="672" />
+{% include gallery id="gallery" %}
