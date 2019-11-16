@@ -2,10 +2,16 @@
 permalink: /RShiny/
 title: RShiny Showcase
 comments: false
-layouts_gallery:
-  - url: /assets/images/sampletraffic.jpg
-    image_path: /assets/images/sampletraffic.jpg
-    alt: "Sample Traffic Snapshot"
+gallery:
+- url: /assets/images/sampletraffic.jpg
+  image_path: /assets/images/sampletraffic1.jpg
+  alt: "Density Snapshot"  
+- url: /assets/images/sampletraffic.jpg
+  image_path: /assets/images/sampletraffic2.jpg
+  alt: "User Locations Snapshot"  
+- url: /assets/images/sampletraffic.jpg
+  image_path: /assets/images/sampletraffic3.jpg
+  alt: "User Trajectories Snapshot"
 ---
 
 I developed below tools as a helper for the project meetings or reporting. The tools are located in a private server that I developed for research purposes. I used RShiny to develop these tools. PostgreSQL database and Apache2 or NGINX web servers are used at the backend.
@@ -17,7 +23,7 @@ The tool that I developed contains 3 tabs:
 2.	User Locations: This map shows where the user opened the smartphone app. If you click on a marker on the map, you can see the anonymous information about the user and distance to major tunnels in the Hampton Roads area.
 3.	User Trajectories: This map has same logic as user locations but it shows the where the app opened and closed with a polyline.
 
-{% include gallery id="layouts_gallery" %}
+{% include gallery id="gallery" %}
 
 [Link](http://128.82.122.156:8888/shiny/tt/){:target="_blank"}
 
