@@ -22,7 +22,7 @@ I had experience with all of the data handling libraries. For big data sets, I c
 Here is the code:
 This code also can be found in my github page: [link](https://github.com/olcaysah/Chicago-Ride-share-Trips-Analysis){:target="_blank"}
 
-```R
+```r
 #' To see how long all process will take time...
 startTime_FullProcess <- Sys.time()
 

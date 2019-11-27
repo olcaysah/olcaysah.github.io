@@ -14,14 +14,14 @@ This code written in the Rstudio. Reticulate library enables to run Python codes
 I copied example from Reticulate manual. I will post my own examples soon.
 
 R Code:
-
+```r
     library(reticulate)
     use_condaenv("r-reticulate",required = T)
     py_run_string("import os as os")
     py_run_string("os.environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = '../Local/Continuum/anaconda3/Library/plugins/platforms/'")
-
+```
 Python Code:
-
+```python
     import pandas
     import matplotlib.pyplot as plt
     import numpy as np
@@ -30,5 +30,5 @@ Python Code:
     plt.plot(t,s)
     plt.grid(True)
     plt.show()
-
+```
 {% include gallery id="gallery" %}
