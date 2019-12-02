@@ -8,14 +8,17 @@ I am currently a PhD. candidate at Old Dominion University, Norfolk, in the Depa
 
 I am working with my doctoral advisor who is [Dr. Mecit Cetin](http://www.tri-odu.org/meet-the-director.html){:target="_blank"} in [Transportation Research Institute](http://www.tri-odu.org){:target="_blank"} at Old Dominion University.
 
-Following topics are the interested areas that I am currently working on:
+Following topics are the areas that I am currently working on:
 
    * Connected and Automated Vehicles (CAV)
-   * Electric Vehicles (EV)
-   * Smart Grid
    * Intelligent Transportation Systems
    * Transportation Informatics/Data Analytics
    * Transportation Simulation and Modeling
    * Transportation Safety
+
+Following topics are the interested areas that I am studying on:
+
+   * Electric Vehicles (EV)
+   * Smart Grid
 
 Please check out my [research](http://olcaysahin.com/research/), [publications](http://olcaysahin.com/publications/), and [skills](http://olcaysahin.com/mytoolset/) for more information about me!
