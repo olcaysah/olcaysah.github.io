@@ -10,7 +10,7 @@ I am working with my doctoral advisor who is [Dr. Mecit Cetin](http://www.tri-od
 
 Following topics are the areas that I am currently working on:
 
-   * Connected and Automated Vehicles (CAV)
+   * Connected and Automated Vehicles (CAV) Technologies
    * Intelligent Transportation Systems
    * Transportation Informatics/Data Analytics
    * Transportation Simulation and Modeling
