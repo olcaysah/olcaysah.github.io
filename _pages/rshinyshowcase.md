@@ -74,4 +74,4 @@ This application can be seen under my porfolio's subdomain as: [http://mcmis.olc
 
 {% include gallery id="MCMIS_gallery" %}
 
-**Disclaimer:** These tools originally developed by me (Olcay Sahin) and they used for reporting and data analysis purposes. Contains of the tools cannot be copied or used other than review purposes except MCIMS.
+**Disclaimer:** These tools originally developed by me (Olcay Sahin) and they used for reporting and data analysis purposes. Contain of the tools cannot be copied or used other than review purposes except MCMIS.
