@@ -38,8 +38,8 @@ _**Published/Accepted**_
 
 ## Technical Papers
 
-1. M. Cetin, **O. Sahin**, R.V. Nezafat, W. Zatar, A. P. Nichols (2019). _Feasibility of Estimating Commodity Flows on Highways with Existing and Emerging Technologies_, Final Project Report, Virginia Transportation Research Council. [Link](http://www.matsutc.org/wp-content/uploads/2019/03/Estimating-Commodity-Flows-Project_FinalReport-v3.pdf){:target="_blank"}.
+1. M. Cetin, **O. Sahin**, R.V. Nezafat, W. Zatar, A. P. Nichols (2019). _Feasibility of Estimating Commodity Flows on Highways with Existing and Emerging Technologies_, Final Project Report, Virginia Transportation Research Council. [pdf](http://www.matsutc.org/wp-content/uploads/2019/03/Estimating-Commodity-Flows-Project_FinalReport-v3.pdf){:target="_blank"}.
 
-1. **Sahin, O.**, R. Paleti, and M. Cetin (2016). _Investigating Relationship between Driving Patterns and Traffic Safety using Smartphones Based Mobile Sensor Data_, Final Project Report, Virginia Transportation Research Council. [Link](http://www.matsutc.org/wp-content/uploads/2014/07/MobileSensorsProject_FinalReport.pdf){:target="_blank"}.
+1. **Sahin, O.**, R. Paleti, and M. Cetin (2016). _Investigating Relationship between Driving Patterns and Traffic Safety using Smartphones Based Mobile Sensor Data_, Final Project Report, Virginia Transportation Research Council. [pdf](http://www.matsutc.org/wp-content/uploads/2014/07/MobileSensorsProject_FinalReport.pdf){:target="_blank"}.
 
-1. M. Cetin, **O. Sahin**, I. Ustun (2015). _Combining Different Data Sources to Predict Origin-Destinations and Flow Patterns for Trucks in Large Networks_, Final Project Report, National Transportation Center – UMD. [Link](http://ntc.umd.edu/sites/default/files/documents/research/NTC2014-SU-R-02%20Mecit%20Cetin.pdf){:target="_blank"}.
+1. M. Cetin, **O. Sahin**, I. Ustun (2015). _Combining Different Data Sources to Predict Origin-Destinations and Flow Patterns for Trucks in Large Networks_, Final Project Report, National Transportation Center – UMD. [pdf](http://ntc.umd.edu/sites/default/files/documents/research/NTC2014-SU-R-02%20Mecit%20Cetin.pdf){:target="_blank"}.
