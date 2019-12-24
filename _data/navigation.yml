@@ -10,8 +10,8 @@ main:
     url: /RShiny/
   - title: "Posts"
     url: /posts/
-  - title: "Updates"
-    url: /updates/
+#  - title: "Updates"
+#    url: /updates/
   - title: "My Toolset"
     url: /mytoolset/
   - title: "Useful Links"
