@@ -8,9 +8,11 @@ comments: false
 
 ## Journal Papers
 _**Under Review**_
-1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2019). _Methods for Classification of Truck Trailers Using Side-Fire Lidar Data._ Journal of Intelligent Transportation Systems.
+1. **Sahin, O.**, Cetin, M., Ustun Ilyas (2020). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis_ Case Studies on Transport Policy
 
 _**Published/Accepted**_
+1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Lidar Data._ Journal of Intelligent Transportation Systems.
+
 1. R.V. Nezafat, **Sahin, O.**, Cetin, M. (2019). _Transfer Learning by Using Deep Neural Networks for Classification of Truck Body Types Based on Side-Fire Lidar Data._ Journal of Big Data Analytics in Transportation. [Link](https://link.springer.com/article/10.1007%2Fs42421-019-00005-9){:target="_blank"}.
 
 1. Ahmed, U., **Sahin, O.**, Cetin, M. (2017). _Minimizing GPS Dependency for a Vehicle’s Trajectory Identification by Utilizing Data from Smartphone Inertial Sensors and OBD device._ To appear in Transportation Research Record, 2017. [Link](https://www.researchgate.net/publication/313552877_Minimizing_GPS_Dependency_for_Vehicle's_Trajectory_Identification_by_Utilizing_Data_from_Smartphone_Inertial_Sensors_and_Onboard_Diagnostics_Device){:target="_blank"}.
