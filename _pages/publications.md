@@ -8,7 +8,7 @@ comments: false
 
 ## Journal Papers
 _**Under Review**_
-1. **Sahin, O.**, Cetin, M., Ustun Ilyas (2020). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis_ Case Studies on Transport Policy
+1. **Sahin, O.**, Cetin, M., Ustun Ilyas (2020). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy
 
 _**Published/Accepted**_
 1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems.
