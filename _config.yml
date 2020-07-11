@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Olcay Sahin"
   avatar           : "/assets/images/profilephoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate - Professional R Programmer"
-  location         : "Norfolk, VA"
+  bio              : "Postdoc Researcher"
+  location         : "Lemont, IL"
   email            :
   links:
     - label: "Email"

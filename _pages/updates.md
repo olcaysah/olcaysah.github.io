@@ -4,11 +4,11 @@ title: Updates
 comments: false
 ---
 
-## 2018
+## 2020
 
-* Expected graduation on December 2019 :-)
+* Started as Postdoc Rat Argonne National Laboratory
 
-* I will complete my degree as Transportation Analyst / Data Scientist
+* Received my Ph.D. in Civil and Environmental Engineering from Old Dominion University
 
 ## 2016
 ### __January__
