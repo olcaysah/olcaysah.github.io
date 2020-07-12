@@ -16,9 +16,4 @@ Following topics are the areas that I am currently working on:
    * Transportation Simulation and Modeling
    * Transportation Safety
 
-Following topics are the interested areas that I am studying on:
-
-   * Electric Vehicles (EV)
-   * Smart Grid
-
-Please check out my [research](http://olcaysahin.com/research/), [publications](http://olcaysahin.com/publications/), and [skills](http://olcaysahin.com/mytoolset/) for more information about me!
+Check out my [research](http://olcaysahin.com/research/), [publications](http://olcaysahin.com/publications/), and [skills](http://olcaysahin.com/mytoolset/) for more information about me!
