@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Research & Projects"
-    url: /research/
+#  - title: "Research & Projects"
+#    url: /research/
   - title: "RShiny Showcase"
     url: /RShiny/
   - title: "Posts"
