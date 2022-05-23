@@ -4,7 +4,7 @@ title: About Me
 comments: false
 ---
 
-I am currently a Postdoc Researcher at Argonne National Laboratory in Lemont, IL. I obtained my Ph.D. in the Department of Civil and Environmental Engineering from Old Dominion University, Norfolk. Prior to this, I had some doctoral level courses from Computational Modeling and Simulation Engineering where I received my Master of Science degree. I also hold an MBA degree from Strayer University. Before obtaining my high level degrees, I graduated from International Black Sea University in Tbilisi, Georgia with a bachelor degree in Industrial Engineering.
+I am Computational Transportation Engineer at the [Vehicle and Mobility Systems Group](https://vms.es.anl.gov/) in the Transportation and Power Systems Division at Argonne National Laboratory in Lemont, IL. I hold a Ph.D. degree from [Department of Civil and Environmental Engineering](https://www.odu.edu/cee) and Master's degree from [Department of Computational Modeling and Simulation Engineering](https://www.odu.edu/cmse) from [Old Dominion University](https://www.odu.edu/), Norfolk. In addition to my MS and PhD degrees I hold an MBA degree from Strayer University. Before obtaining my high level degrees, I graduated from International Black Sea University in Tbilisi, Georgia with a bachelor degree in Industrial Engineering.
 
 Following topics are the areas that I am currently working on:
 
