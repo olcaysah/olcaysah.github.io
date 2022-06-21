@@ -7,11 +7,11 @@ comments: false
 
 
 ## Journal Papers
-_**Under Review**_
-
 
 _**Published/Accepted**_
-1. **Sahin, O.**, Cetin, M., Ustun Ilyas (2021). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy
+1.	Cokyasar, T., Larson, J., Stinson, M., & **Sahin, O.** (2022). _A Time-Constrained Capacitated Vehicle Routing Problem in Urban E-Commerce Delivery._ Transportation Research Record.
+
+3. **Sahin, O.**, Cetin, M., Ustun Ilyas (2021). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy
 
 1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems.
 
@@ -23,7 +23,13 @@ _**Published/Accepted**_
 
 1. J.J. Padilla, S.Y. Diallo, H. Kavak, **O. Sahin**, J.A. Sokolowski and R.J. Gore (2015). _Semi-Automated Initialization of Simulations: An Application to Healthcare._ The Journal of Defense Modeling and Simulation, doi:10.1177/1548512915570143  [Link](https://journals.sagepub.com/doi/10.1177/1548512914565503){:target="_blank"}.
 
-## Conference Proceedings
+## Peer-Reviewed Conference Papers
+1.	**Sahin, Olcay** and Stinson, Monique (2022). _Off-Hours Delivery: Simulated Systemwide Results for the Chicago Region_ METRANS - 9th International Urban Freight Conference, Long Beach, CA
+
+2.	**Sahin, Olcay** and Stinson, Monique (2021). _Analysis of Urban Freight Flows and Last-Mile, Retail Goods Movement Over Time Using Inference with GPS Trajectory Data._ Transportation Research Board Innovations in Freight Data Workshop
+
+3.	**Sahin, Olcay** and Cetin, Mecit (2021). _Truck Trailer Classification Using Side-fired LiDAR Data_ National Travel Monitoring Exposition and Conference.
+
 1. **Sahin, O.**, Cetin, M., Ustun, I (2020). _Empty Platform Semi-Trailer classification using side-fire LIDAR data for supporting Freight Analysis and Planning_ In Transportation Research Board 99th Annual Meeting. [Accepted for Presentation]
 
 1. R.V. Nezafat, **Sahin, O.**, Cetin, M. (2019). _A Deep Transfer Learning Approach for Classification of Truck Body Types Based on Side-Fire LIDAR Data_ In Transportation Research Board 98th Annual Meeting. [Accepted for presentation]
@@ -41,8 +47,9 @@ _**Published/Accepted**_
 1. J.J. Padilla, S.Y. Diallo, H. Kavak, **O. Sahin**, B. Nicholson (2014). _Leveraging Social Media Data in Agent-based Simulations._ 47th Annual Simulation Symposium, Tampa, FL, April 13-16, 2014, pp. 221-228
 
 ## Technical Papers
+1.	Zhu, S., Cetin, M., Yang, H., **Sahin, O.**, & Mardan, A. (2021). _Exploration of Corridor-Based Tolling Strategies for Virginia’s Express Toll Lanes_ (dot:57313). FHWA/VTRC 22-R5. 
 
-1. M. Cetin, **O. Sahin**, R.V. Nezafat, W. Zatar, A. P. Nichols (2019). _Feasibility of Estimating Commodity Flows on Highways with Existing and Emerging Technologies_, Final Project Report, Virginia Transportation Research Council. [pdf](http://www.matsutc.org/wp-content/uploads/2019/03/Estimating-Commodity-Flows-Project_FinalReport-v3.pdf){:target="_blank"}.
+3. M. Cetin, **O. Sahin**, R.V. Nezafat, W. Zatar, A. P. Nichols (2019). _Feasibility of Estimating Commodity Flows on Highways with Existing and Emerging Technologies_, Final Project Report, Virginia Transportation Research Council. [pdf](http://www.matsutc.org/wp-content/uploads/2019/03/Estimating-Commodity-Flows-Project_FinalReport-v3.pdf){:target="_blank"}.
 
 1. **Sahin, O.**, R. Paleti, and M. Cetin (2016). _Investigating Relationship between Driving Patterns and Traffic Safety using Smartphones Based Mobile Sensor Data_, Final Project Report, Virginia Transportation Research Council. [pdf](http://www.matsutc.org/wp-content/uploads/2014/07/MobileSensorsProject_FinalReport.pdf){:target="_blank"}.
 
