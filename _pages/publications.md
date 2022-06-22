@@ -13,7 +13,7 @@ _**Published/Accepted**_
 
 3. **Sahin, O.**, Cetin, M., Ustun Ilyas (2021). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy [Link](https://www.sciencedirect.com/science/article/pii/S2213624X21000766){:target="_blank"}.
 
-1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems. [Link](https://www.researchgate.net/publication/339748775_Methods_for_classification_of_truck_trailers_using_side-fire_light_detection_and_ranging_LiDAR_Data){:target="_blank"}.
+1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems. [Journal Link](https://www.tandfonline.com/doi/abs/10.1080/15472450.2020.1733999?journalCode=gits20){:target="_blank"}. [Open Access Link](https://www.researchgate.net/publication/339748775_Methods_for_classification_of_truck_trailers_using_side-fire_light_detection_and_ranging_LiDAR_Data){:target="_blank"}.
 
 1. R.V. Nezafat, **Sahin, O.**, Cetin, M. (2019). _Transfer Learning by Using Deep Neural Networks for Classification of Truck Body Types Based on Side-Fire Lidar Data._ Journal of Big Data Analytics in Transportation. [Link](https://link.springer.com/article/10.1007%2Fs42421-019-00005-9){:target="_blank"}.
 
