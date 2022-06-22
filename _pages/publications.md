@@ -9,11 +9,11 @@ comments: false
 ## Journal Papers
 
 _**Published/Accepted**_
-1.	Cokyasar, T., Larson, J., Stinson, M., & **Sahin, O.** (2022). _A Time-Constrained Capacitated Vehicle Routing Problem in Urban E-Commerce Delivery._ Transportation Research Record.
+1.	Cokyasar, T., Larson, J., Stinson, M., & **Sahin, O.** (2022). _A Time-Constrained Capacitated Vehicle Routing Problem in Urban E-Commerce Delivery._ Transportation Research Record.[Link](https://arxiv.org/abs/2201.04036){:target="_blank"}.
 
-3. **Sahin, O.**, Cetin, M., Ustun Ilyas (2021). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy
+3. **Sahin, O.**, Cetin, M., Ustun Ilyas (2021). _Detecting Empty and Loaded Platform Semi-Trailers Using Side-Fire LiDAR Data for Supporting Freight Analysis._ Case Studies on Transport Policy [Link](https://www.sciencedirect.com/science/article/pii/S2213624X21000766){:target="_blank"}.
 
-1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems.
+1. **Sahin, O.**, R.V. Nezafat, Cetin, M. (2020). _Methods for Classification of Truck Trailers Using Side-Fire Light Detection and Ranging (LiDAR) Data._ Journal of Intelligent Transportation Systems. [Link](https://www.researchgate.net/publication/339748775_Methods_for_classification_of_truck_trailers_using_side-fire_light_detection_and_ranging_LiDAR_Data){:target="_blank"}.
 
 1. R.V. Nezafat, **Sahin, O.**, Cetin, M. (2019). _Transfer Learning by Using Deep Neural Networks for Classification of Truck Body Types Based on Side-Fire Lidar Data._ Journal of Big Data Analytics in Transportation. [Link](https://link.springer.com/article/10.1007%2Fs42421-019-00005-9){:target="_blank"}.
 
@@ -24,7 +24,7 @@ _**Published/Accepted**_
 1. J.J. Padilla, S.Y. Diallo, H. Kavak, **O. Sahin**, J.A. Sokolowski and R.J. Gore (2015). _Semi-Automated Initialization of Simulations: An Application to Healthcare._ The Journal of Defense Modeling and Simulation, doi:10.1177/1548512915570143  [Link](https://journals.sagepub.com/doi/10.1177/1548512914565503){:target="_blank"}.
 
 ## Peer-Reviewed Conference Papers
-1.	**Sahin, Olcay** and Stinson, Monique (2022). _Off-Hours Delivery: Simulated Systemwide Results for the Chicago Region_ METRANS - 9th International Urban Freight Conference, Long Beach, CA
+1.	**Sahin, Olcay** and Stinson, Monique (2022). _Off-Hours Delivery: Simulated Systemwide Results for the Chicago Region_ METRANS - 9th International Urban Freight Conference, Long Beach, CA. [Link](https://www.metrans.org/assets/upload/sahin_stinson-0.pdf){:target="_blank"}.
 
 2.	**Sahin, Olcay** and Stinson, Monique (2021). _Analysis of Urban Freight Flows and Last-Mile, Retail Goods Movement Over Time Using Inference with GPS Trajectory Data._ Transportation Research Board Innovations in Freight Data Workshop
 
