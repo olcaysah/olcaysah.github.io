@@ -115,25 +115,25 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:osahi001@odu.edu
+      # url: mailto:osahi001@odu.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/olcaysah/"
+      # url: "https://twitter.com/olcaysah/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/olcay.sahin.1675"
+      # url: "https://facebook.com/olcay.sahin.1675"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/olcaysah"
+      # url: "https://github.com/olcaysah"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/olcaysah/"
+      # url: "https://www.linkedin.com/in/olcaysah/"
 # Site Footer
 footer:
   links:
