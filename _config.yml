@@ -110,7 +110,7 @@ author:
   name             : "Olcay Sahin"
   avatar           : "/assets/images/profilephoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Transportation Engineer"
-  location         : "Lemont, IL"
+  # location         : "Lemont, IL"
   email            :
   links:
     - label: "Email"
